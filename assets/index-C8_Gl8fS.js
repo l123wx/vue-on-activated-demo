@@ -1,0 +1,1 @@
+import{d as t,o as a,a as s,c as u,b as o,e as d}from"./index-YoDT0KvV.js";const l=o("h1",null,"Index Page",-1),p=t({name:"Index",__name:"index",setup(r){return a(()=>{console.log("[About] onMounted")}),s(()=>{console.log("[About] onActivated")}),(n,e)=>(d(),u("div",null,[l,o("button",{onClick:e[0]||(e[0]=c=>n.$router.push("/about"))},"To About Page")]))}});export{p as default};
